@@ -64,4 +64,4 @@ On the command-line:
 
 L<Require::HookChain>
 
-L<Require::Hook::MetaCPAN>
+L<Require::Hook::Source::MetaCPAN>
