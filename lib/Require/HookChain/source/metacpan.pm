@@ -65,3 +65,5 @@ On the command-line:
 L<Require::HookChain>
 
 L<Require::Hook::Source::MetaCPAN>
+
+L<Require::HookChain::source::lcpan>
