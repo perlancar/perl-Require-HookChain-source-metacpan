@@ -40,7 +40,7 @@ sub Require::HookChain::source::metacpan::INC {
 }
 
 1;
-# ABSTRACT: Prepend a piece of code to module source
+# ABSTRACT: Load module source from MetaCPAN
 
 =for Pod::Coverage .+
 
